@@ -1,0 +1,192 @@
+Country,Expected years of schooling,Mean years of schooling
+Switzerland,16.5,13.9
+Norway,18.2,13.0
+Iceland,19.2,13.8
+"Hong Kong, China (SAR)",17.3,12.2
+Australia,21.1,12.7
+Denmark,18.7,13.0
+Sweden,19.4,12.6
+Ireland,18.9,11.6
+Germany,17.0,14.1
+Netherlands,18.7,12.6
+Finland,19.1,12.9
+Singapore,16.5,11.9
+Belgium,19.6,12.4
+New Zealand,20.3,12.9
+Canada,16.4,13.8
+Liechtenstein,15.2,12.5
+Luxembourg,14.4,13.0
+United Kingdom,17.3,13.4
+Japan,15.2,13.4
+Korea (Republic of),16.5,12.5
+United States,16.3,13.7
+Israel,16.1,13.3
+Malta,16.8,12.2
+Slovenia,17.7,12.8
+Austria,16.0,12.3
+United Arab Emirates,15.7,12.7
+Spain,17.9,10.6
+France,15.8,11.6
+Cyprus,15.6,12.4
+Italy,16.2,10.7
+Estonia,15.9,13.5
+Czechia,16.2,12.9
+Greece,20.0,11.4
+Poland,16.0,13.2
+Bahrain,16.3,11.0
+Lithuania,16.3,13.5
+Saudi Arabia,16.1,11.3
+Portugal,16.9,9.6
+Latvia,16.2,13.3
+Andorra,13.3,10.6
+Croatia,15.1,12.2
+Chile,16.7,10.9
+Qatar,12.6,10.0
+San Marino,12.3,10.8
+Slovakia,14.5,12.9
+Hungary,15.0,12.2
+Argentina,17.9,11.1
+Türkiye,18.3,8.6
+Montenegro,15.1,12.2
+Kuwait,15.3,7.3
+Brunei Darussalam,14.0,9.2
+Russian Federation,15.8,12.8
+Romania,14.2,11.3
+Oman,14.6,11.7
+Bahamas,12.9,12.6
+Kazakhstan,15.8,12.3
+Trinidad and Tobago,14.5,11.6
+Costa Rica,16.5,8.8
+Uruguay,16.8,9.0
+Belarus,15.2,12.1
+Panama,13.1,10.5
+Malaysia,13.3,10.6
+Georgia,15.6,12.8
+Mauritius,15.2,10.4
+Serbia,14.4,11.4
+Thailand,15.9,8.7
+Albania,14.4,11.3
+Bulgaria,13.9,11.4
+Grenada,18.7,9.0
+Barbados,15.7,9.9
+Antigua and Barbuda,14.2,9.3
+Seychelles,13.9,10.3
+Sri Lanka,14.1,10.8
+Bosnia and Herzegovina,13.8,10.5
+Saint Kitts and Nevis,15.4,8.7
+Iran (Islamic Republic of),14.6,10.6
+Ukraine,15.0,11.1
+North Macedonia,13.6,10.2
+China,14.2,7.6
+Dominican Republic,14.5,9.3
+Moldova (Republic of),14.4,11.8
+Palau,15.8,12.5
+Cuba,14.4,12.5
+Peru,15.4,9.9
+Armenia,13.1,11.3
+Mexico,14.9,9.2
+Brazil,15.6,8.1
+Colombia,14.4,8.9
+Saint Vincent and the Grenadines,14.7,10.8
+Maldives,12.6,7.3
+Algeria,14.6,8.1
+Azerbaijan,13.5,10.5
+Tonga,16.0,11.4
+Turkmenistan,13.2,11.3
+Ecuador,14.6,8.8
+Mongolia,15.0,9.4
+Egypt,13.8,9.6
+Tunisia,15.4,7.4
+Fiji,14.7,10.9
+Suriname,13.0,9.8
+Uzbekistan,12.5,11.9
+Dominica,13.3,8.1
+Jordan,10.6,10.4
+Libya,12.9,7.6
+Paraguay,13.0,8.9
+"Palestine, State of",13.4,9.9
+Saint Lucia,12.9,8.5
+Guyana,12.5,8.6
+South Africa,13.6,11.4
+Jamaica,13.4,9.2
+Samoa,12.4,11.4
+Gabon,13.0,9.4
+Lebanon,11.3,8.7
+Indonesia,13.7,8.6
+Viet Nam,13.0,8.4
+Philippines,13.1,9.0
+Botswana,12.3,10.3
+Bolivia (Plurinational State of),14.9,9.8
+Kyrgyzstan,13.2,11.4
+Venezuela (Bolivarian Republic of),12.8,11.1
+Iraq,12.1,7.9
+Tajikistan,11.7,11.3
+Belize,13.0,8.8
+Morocco,14.2,5.9
+El Salvador,12.7,7.2
+Nicaragua,12.6,7.1
+Bhutan,13.2,5.2
+Cabo Verde,12.6,6.3
+Bangladesh,12.4,7.4
+Tuvalu,9.4,10.6
+Marshall Islands,10.2,10.9
+India,11.9,6.7
+Ghana,12.0,8.3
+Micronesia (Federated States of),11.5,7.8
+Guatemala,10.6,5.7
+Kiribati,11.8,8.0
+Honduras,10.1,7.1
+Sao Tome and Principe,13.4,6.2
+Namibia,11.9,7.2
+Lao People's Democratic Republic,10.1,5.4
+Timor-Leste,12.6,5.4
+Vanuatu,11.5,7.1
+Nepal,12.9,5.1
+Eswatini (Kingdom of),13.7,5.6
+Equatorial Guinea,9.7,5.9
+Cambodia,11.5,5.1
+Zimbabwe,12.1,8.7
+Angola,12.2,5.4
+Myanmar,10.9,6.4
+Syrian Arab Republic,9.2,5.1
+Cameroon,13.1,6.2
+Kenya,10.7,6.7
+Congo,12.3,6.2
+Zambia,10.9,7.2
+Solomon Islands,10.3,5.7
+Comoros,11.9,5.1
+Papua New Guinea,10.4,4.7
+Mauritania,9.4,4.9
+Cote d'Ivoire,10.7,5.2
+Tanzania (United Republic of),9.2,6.4
+Pakistan,8.7,4.5
+Togo,13.0,5.0
+Haiti,9.7,5.6
+Nigeria,10.1,7.2
+Rwanda,11.2,4.4
+Benin,10.8,4.3
+Uganda,10.1,5.7
+Lesotho,12.0,6.0
+Malawi,12.7,4.5
+Senegal,9.0,2.9
+Djibouti,7.4,4.1
+Sudan,7.9,3.8
+Madagascar,10.1,5.1
+Gambia,9.4,4.6
+Ethiopia,9.7,3.2
+Eritrea,8.1,4.9
+Guinea-Bissau,10.6,3.6
+Liberia,10.4,5.1
+Congo (Democratic Republic of the),9.8,7.0
+Afghanistan,10.3,3.0
+Sierra Leone,9.6,4.6
+Guinea,9.8,2.2
+Yemen,9.1,3.2
+Burkina Faso,9.1,2.1
+Mozambique,10.2,3.2
+Mali,7.4,2.3
+Burundi,10.7,3.1
+Central African Republic,8.0,4.3
+Niger,7.0,2.1
+Chad,8.0,2.6
+South Sudan,5.5,5.7
